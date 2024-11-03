@@ -84,7 +84,7 @@ const AuthInputs = () => {
         <Button type="button" >
           Create a new account
         </Button>
-        <Button  onClick={handleLogin}>
+        <Button   onClick={handleLogin}>
           Sign In
         </Button>
       </div>
